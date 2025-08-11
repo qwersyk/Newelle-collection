@@ -83,3 +83,12 @@
         <img src="screenshots/rpg-w.png" alt="rpg">
     </picture>
 </a>
+
+## Quiz
+<a href="extensions/quiz.py">
+    <picture>
+        <source srcset="screenshots/quiz-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/quiz-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/quiz-w.png" alt="quiz">
+    </picture>
+</a>
