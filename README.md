@@ -74,3 +74,12 @@
         <img src="screenshots/route-w.png" alt="route">
     </picture>
 </a>
+
+## RPG
+<a href="extensions/rpg.py">
+    <picture>
+        <source srcset="screenshots/rpg-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/rpg-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/rpg-w.png" alt="rpg">
+    </picture>
+</a>
