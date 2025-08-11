@@ -22,7 +22,7 @@
 </p>
 
 ## Emails
-<a href="extensions/email.py" download>
+<a href="extensions/email.py">
     <picture>
         <source srcset="screenshots/email-w.png" media="(prefers-color-scheme: light)">
         <source srcset="screenshots/email-b.png" media="(prefers-color-scheme: dark)">
@@ -31,10 +31,46 @@
 </a>
 
 ## Mindmap
-<a href="extensions/mindmap.py" download>
+<a href="extensions/mindmap.py">
     <picture>
         <source srcset="screenshots/mindmap-w.png" media="(prefers-color-scheme: light)">
         <source srcset="screenshots/mindmap-b.png" media="(prefers-color-scheme: dark)">
         <img src="screenshots/mindmap-w.png" alt="mindmap">
+    </picture>
+</a>
+
+## Timer
+<a href="extensions/timer.py">
+    <picture>
+        <source srcset="screenshots/timer-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/timer-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/timer-w.png" alt="timer">
+    </picture>
+</a>
+
+## Weather
+<a href="extensions/weather.py">
+    <picture>
+        <source srcset="screenshots/weather-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/weather-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/weather-w.png" alt="weather">
+    </picture>
+</a>
+
+## Map
+<a href="extensions/map.py">
+    <picture>
+        <source srcset="screenshots/map-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/map-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/map-w.png" alt="map">
+    </picture>
+</a>
+
+## Route
+<a href="extensions/route.py">
+    <picture>
+        <source srcset="screenshots/route-w.png" media="(prefers-color-scheme: light)">
+        <source srcset="screenshots/route-b.png" media="(prefers-color-scheme: dark)">
+        <img src="screenshots/route-w.png" alt="route">
     </picture>
 </a>
